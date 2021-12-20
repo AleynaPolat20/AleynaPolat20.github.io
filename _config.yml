@@ -1,11 +1,11 @@
 # Site settings
-title: TravelBlog
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+title: Walking On Travels
+description: This website is showing you the beautiful landscapes, arcbitectures and landmarks our world has..
+cover: desktop/bali.jpg
+logo: desktop/logo.jpg
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://AleynaPolat.com" # the base hostname & protocol for your site
+url: "https://aleynapolat20.github.io" # the base hostname & protocol for your site
 
 pagination:
 
@@ -18,9 +18,7 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook
 instagram: instgram
-github:  github
 
 #Additional Pages
 about: about
