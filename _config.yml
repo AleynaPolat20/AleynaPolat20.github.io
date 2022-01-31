@@ -50,7 +50,7 @@ repo: TravelBlog #github repository
 branch: master #branch
 relative_source: ../TravelBlog/ #source directory
 destination: ../TravelBloge - page/ #destination directory
-production_url:  https://AleynaPolat20.com/
+production_url:  https://AleynaPolat20.github.io/
 source_url:  https://github.com/AleynaPolat20/TravelBlog #source repository url
 
 exclude:
